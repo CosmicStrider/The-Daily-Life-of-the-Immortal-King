@@ -1,6 +1,6 @@
 My files for the translation of The Daily Life of the Immortal King Novel
 
-Only edit the text file.
+Only edit the OEBP folder inside the edit folder.
 
 I use Calibre to edit the epub files, and libre office to edit the character csv file.
 
