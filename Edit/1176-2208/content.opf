@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
   <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
     <dc:title>The Daily Life of the Immortal King 1176-2208</dc:title>
@@ -1056,12 +1056,12 @@
     <item id="item_2307" href="OEBPS/04681--2206-.html" media-type="application/xhtml+xml"/>
     <item id="item_2308" href="OEBPS/04682--2207-1-.html" media-type="application/xhtml+xml"/>
     <item id="item_2309" href="OEBPS/04683--2208-.html" media-type="application/xhtml+xml"/>
-    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="page_styles.css" media-type="text/css"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
     <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
   </manifest>
-  <spine toc="ncx">
+  <spine toc="toc">
     <itemref idref="titlepage"/>
     <itemref idref="item_1234"/>
     <itemref idref="item_1235"/>
