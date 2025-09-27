@@ -6,7 +6,7 @@ I use Calibre to edit the epub files, and libre office to edit the character csv
 
 I use QuickEdit+ on android to edit after renaming the file from .epub to .zip and opening each .html.
 
-Links
+Download Links
 
 [Text 1-1176](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Text/The%20Daily%20Life%20of%20the%20Immortal%20-%20Kuxuan%201-1176.txt)
 
