@@ -6,12 +6,4 @@ I use Calibre to edit the epub files, and libre office to edit the character csv
 
 I use QuickEdit+ on android to edit after renaming the file from .epub to .zip and opening each .html.
 
-Download Links
-
-[Text 1-1176](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Text/The%20Daily%20Life%20of%20the%20Immortal%20-%20Kuxuan%201-1176.txt)
-
-[Text 1177-2208](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Text/The%20Daily%20Life%20of%20the%20Immortal%20-%20Kuxuan%201177-2208.txt)
-
-[ePub 1-1176](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Epub/DLIK%201-1176%20FootNotes%20in%20Text.epub)
-
-[ePub 1177-2208](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Epub/DLIK%201177-2208.epub)
+Download Links: [Text 1-1176](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Text/The%20Daily%20Life%20of%20the%20Immortal%20-%20Kuxuan%201-1176.txt) - [Text 1177-2208](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Text/The%20Daily%20Life%20of%20the%20Immortal%20-%20Kuxuan%201177-2208.txt) - [ePub 1-1176](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Epub/DLIK%201-1176%20FootNotes%20in%20Text.epub) - [ePub 1177-2208](https://github.com/CosmicStrider/The-Daily-Life-of-the-Immortal-King/raw/refs/heads/main/Epub/DLIK%201177-2208.epub)
