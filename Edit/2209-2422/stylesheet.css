@@ -1,0 +1,29 @@
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  font-weight: bold;
+}
+.calibre2 {
+  display: block;
+  text-indent: 0;
+  margin: 1em 0;
+}
+.calibre3 {
+  display: block;
+}
+.calibre4 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 0.67em 0;
+}
+.calibre5 {
+  display: block;
+  margin: 1em 0;
+}

@@ -1,0 +1,1311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="331019ee-477c-4819-86c3-0ceb6fe8fa31"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (9.2.1)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Daily Life of the Immortal King 2209-2422</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="OEBPS/table_of_contents.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>Chapter 2209 A Single Strike (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02250--2209-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Chapter 2210 Luck and Misfortune (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02251--2210-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>Chapter 2211 Wang Ling's "Transcendental Dao Techniques" (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02252--2211-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Chapter 2212 Quick Victory (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02253--2212-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Chapter 2213 Instant Cowardice (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02254--2213-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7" class="chapter">
+      <navLabel>
+        <text>Chapter 2214 Reversal of Power (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02255--2214-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8" class="chapter">
+      <navLabel>
+        <text>Chapter 2215 The Story of Crossing the Earth's Core (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02256--2215-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9" class="chapter">
+      <navLabel>
+        <text>Chapter 2216 Liars Will Swallow a Thousand Needles (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02257--2216-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10" class="chapter">
+      <navLabel>
+        <text>Chapter 2217 An Unremarkable Mental Hospital (1/86)</text>
+      </navLabel>
+      <content src="OEBPS/02258--2217-1-86-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11" class="chapter">
+      <navLabel>
+        <text>Chapter 2218 Meng Nian's Mysterious Cave</text>
+      </navLabel>
+      <content src="OEBPS/02259--2218-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12" class="chapter">
+      <navLabel>
+        <text>Chapter 2219 I don't care whether I live or die, I just want you to die!</text>
+      </navLabel>
+      <content src="OEBPS/02260--2219-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13" class="chapter">
+      <navLabel>
+        <text>Chapter 2220 Huh?</text>
+      </navLabel>
+      <content src="OEBPS/02261--2220-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14" class="chapter">
+      <navLabel>
+        <text>Chapter 2221 Siblings Reunion</text>
+      </navLabel>
+      <content src="OEBPS/02262--2221-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15" class="chapter">
+      <navLabel>
+        <text>Chapter 2222 Meng Nian's Redemption</text>
+      </navLabel>
+      <content src="OEBPS/02263--2222-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16" class="chapter">
+      <navLabel>
+        <text>Chapter 2223 Mysterious Embroidered Pouch</text>
+      </navLabel>
+      <content src="OEBPS/02264--2223-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17" class="chapter">
+      <navLabel>
+        <text>Chapter 2224 Mysterious Countdown</text>
+      </navLabel>
+      <content src="OEBPS/02265--2224-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18" class="chapter">
+      <navLabel>
+        <text>Chapter 2225 The Countdown Above Our Heads</text>
+      </navLabel>
+      <content src="OEBPS/02266--2225-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19" class="chapter">
+      <navLabel>
+        <text>Chapter 2226 Evil People Will Be Punished by Other Evil People</text>
+      </navLabel>
+      <content src="OEBPS/02267--2226-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20" class="chapter">
+      <navLabel>
+        <text>Chapter 2227 Sunk Costs</text>
+      </navLabel>
+      <content src="OEBPS/02268--2227-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21" class="chapter">
+      <navLabel>
+        <text>Chapter 2228 Sun Rong's Nervousness</text>
+      </navLabel>
+      <content src="OEBPS/02269--2228-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22" class="chapter">
+      <navLabel>
+        <text>Chapter 2229 Chen Chao and Guo Hao Emerge from Seclusion</text>
+      </navLabel>
+      <content src="OEBPS/02270--2229-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23" class="chapter">
+      <navLabel>
+        <text>Chapter 2230 Welcome Ceremony (1/85)</text>
+      </navLabel>
+      <content src="OEBPS/02271--2230-1-85-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24" class="chapter">
+      <navLabel>
+        <text>Chapter 2231 The Test Has Begun</text>
+      </navLabel>
+      <content src="OEBPS/02272--2231-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25" class="chapter">
+      <navLabel>
+        <text>Chapter 2232 Welcome Ceremony (1/85)</text>
+      </navLabel>
+      <content src="OEBPS/02273--2232-1-85-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26" class="chapter">
+      <navLabel>
+        <text>Chapter 2233 The Test Has Begun</text>
+      </navLabel>
+      <content src="OEBPS/02274--2233-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27" class="chapter">
+      <navLabel>
+        <text>Chapter 2234 Pressure Suddenly Increases! The Old Fox's Barrage of Attacks</text>
+      </navLabel>
+      <content src="OEBPS/02275--2234-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28" class="chapter">
+      <navLabel>
+        <text>Chapter 2235 The Radiant Armor and the Central Government's Summoning (1/84)</text>
+      </navLabel>
+      <content src="OEBPS/02276--2235-1-84-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29" class="chapter">
+      <navLabel>
+        <text>Chapter 2236 Facing the Test</text>
+      </navLabel>
+      <content src="OEBPS/02277--2236-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30" class="chapter">
+      <navLabel>
+        <text>Chapter 2237 The Spirit Hub Matrix and the Noise Outside the Wall</text>
+      </navLabel>
+      <content src="OEBPS/02278--2237-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31" class="chapter">
+      <navLabel>
+        <text>Chapter 2238 A Gathering of Heroes (1/83)</text>
+      </navLabel>
+      <content src="OEBPS/02279--2238-1-83-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32" class="chapter">
+      <navLabel>
+        <text>Chapter 2239 Solitude in the Medical Clinic</text>
+      </navLabel>
+      <content src="OEBPS/02280--2239-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33" class="chapter">
+      <navLabel>
+        <text>Chapter 2240 Those who are clean will clean themselves up</text>
+      </navLabel>
+      <content src="OEBPS/02281--2240-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34" class="chapter">
+      <navLabel>
+        <text>Chapter 2241 A Shaken Heart</text>
+      </navLabel>
+      <content src="OEBPS/02282--2241-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35" class="chapter">
+      <navLabel>
+        <text>Chapter 2242 First Exploration of the Earth's Core</text>
+      </navLabel>
+      <content src="OEBPS/02283--2242-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36" class="chapter">
+      <navLabel>
+        <text>Chapter 2243 The Immortal King's Wilderness Survival (Earth Core Version) (1/81)</text>
+      </navLabel>
+      <content src="OEBPS/02284--2243-1-81-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37" class="chapter">
+      <navLabel>
+        <text>Chapter 2244 Annihilation of Divine Consciousness (1/80)</text>
+      </navLabel>
+      <content src="OEBPS/02285--2244-1-80-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38" class="chapter">
+      <navLabel>
+        <text>Chapter 2245 The Immortal King's Daily Life of Retirement (1/79)</text>
+      </navLabel>
+      <content src="OEBPS/02286--2245-1-79-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39" class="chapter">
+      <navLabel>
+        <text>Chapter 2246 Ripples in the Underworld</text>
+      </navLabel>
+      <content src="OEBPS/02287--2246-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40" class="chapter">
+      <navLabel>
+        <text>Chapter 2247 The Dangerous Inner Earth (1/78)</text>
+      </navLabel>
+      <content src="OEBPS/02288--2247-1-78-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41" class="chapter">
+      <navLabel>
+        <text>Chapter 2248 He's just a mascot! (1/77)</text>
+      </navLabel>
+      <content src="OEBPS/02289--2248-1-77-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42" class="chapter">
+      <navLabel>
+        <text>Chapter 2249 The Duo (1/78)</text>
+      </navLabel>
+      <content src="OEBPS/02290--2249-1-78-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43" class="chapter">
+      <navLabel>
+        <text>Chapter 2250 Let's Push Through!</text>
+      </navLabel>
+      <content src="OEBPS/02291--2250-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44" class="chapter">
+      <navLabel>
+        <text>Chapter 2251 The Future Jealous King</text>
+      </navLabel>
+      <content src="OEBPS/02292--2251-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45" class="chapter">
+      <navLabel>
+        <text>Chapter 2252 The Glass Clan</text>
+      </navLabel>
+      <content src="OEBPS/02293--2252-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46" class="chapter">
+      <navLabel>
+        <text>Chapter 2253 Glazed Shadow Dance</text>
+      </navLabel>
+      <content src="OEBPS/02294--2253-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47" class="chapter">
+      <navLabel>
+        <text>Chapter 2254 The Great Copycat War</text>
+      </navLabel>
+      <content src="OEBPS/02295--2254-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48" class="chapter">
+      <navLabel>
+        <text>Chapter 2255 Imitating Sun Rong? Die!</text>
+      </navLabel>
+      <content src="OEBPS/02296--2255-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49" class="chapter">
+      <navLabel>
+        <text>Chapter 2256 The Wrath of the Glass</text>
+      </navLabel>
+      <content src="OEBPS/02297--2256-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50" class="chapter">
+      <navLabel>
+        <text>Chapter 2257 Wang Tong's Devouring</text>
+      </navLabel>
+      <content src="OEBPS/02298--2257-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51" class="chapter">
+      <navLabel>
+        <text>Chapter 2258 The Whispers of the Earth's Veins</text>
+      </navLabel>
+      <content src="OEBPS/02299--2258-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52" class="chapter">
+      <navLabel>
+        <text>Chapter 2259 Bai Zhe's Henchmen</text>
+      </navLabel>
+      <content src="OEBPS/02300--2259-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53" class="chapter">
+      <navLabel>
+        <text>Chapter 2260 Echoes from the Earth's Core</text>
+      </navLabel>
+      <content src="OEBPS/02301--2260-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54" class="chapter">
+      <navLabel>
+        <text>Chapter 2261 Wang Zhen's Rant</text>
+      </navLabel>
+      <content src="OEBPS/02302--2261-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55" class="chapter">
+      <navLabel>
+        <text>Chapter 2262 Migration</text>
+      </navLabel>
+      <content src="OEBPS/02303--2262-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56" class="chapter">
+      <navLabel>
+        <text>Chapter 2263 Thousand Caves City</text>
+      </navLabel>
+      <content src="OEBPS/02304--2263-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57" class="chapter">
+      <navLabel>
+        <text>Chapter 2264 The Undercurrents of Thousand Caves City</text>
+      </navLabel>
+      <content src="OEBPS/02305--2264-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58" class="chapter">
+      <navLabel>
+        <text>Chapter 2265 Each Person's Adventure</text>
+      </navLabel>
+      <content src="OEBPS/02306--2265-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59" class="chapter">
+      <navLabel>
+        <text>Chapter 2266 Wang Ling's Decision</text>
+      </navLabel>
+      <content src="OEBPS/02307--2266-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60" class="chapter">
+      <navLabel>
+        <text>Chapter 2267 The Gift from the Spirit of the Ancient Land</text>
+      </navLabel>
+      <content src="OEBPS/02308--2267-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61" class="chapter">
+      <navLabel>
+        <text>Chapter 2268 Bai Zhe's Horror</text>
+      </navLabel>
+      <content src="OEBPS/02309--2268-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62" class="chapter">
+      <navLabel>
+        <text>Chapter 2269 The Secret Deep Within the Source Eye</text>
+      </navLabel>
+      <content src="OEBPS/02310--2269-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63" class="chapter">
+      <navLabel>
+        <text>Chapter 2270 You're disturbing my instant noodles!</text>
+      </navLabel>
+      <content src="OEBPS/02311--2270-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64" class="chapter">
+      <navLabel>
+        <text>Chapter 2271 The Arena and the Celestial King's Force Field</text>
+      </navLabel>
+      <content src="OEBPS/02312--2271-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65" class="chapter">
+      <navLabel>
+        <text>Chapter 2272 Silent Annihilation</text>
+      </navLabel>
+      <content src="OEBPS/02313--2272-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66" class="chapter">
+      <navLabel>
+        <text>Chapter 2273 The strike covers the entire globe!</text>
+      </navLabel>
+      <content src="OEBPS/02314--2273-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67" class="chapter">
+      <navLabel>
+        <text>Chapter 2274 Wang Ling's Nonsense</text>
+      </navLabel>
+      <content src="OEBPS/02315--2274-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68" class="chapter">
+      <navLabel>
+        <text>Chapter 2275 Bai Zhe's Gaze</text>
+      </navLabel>
+      <content src="OEBPS/02316--2275-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69" class="chapter">
+      <navLabel>
+        <text>Chapter 2276 Bai Zhe's Primordial Evil Cultivator Legion</text>
+      </navLabel>
+      <content src="OEBPS/02317--2276-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70" class="chapter">
+      <navLabel>
+        <text>Chapter 2277 The War Sect is Deployed</text>
+      </navLabel>
+      <content src="OEBPS/02318--2277-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71" class="chapter">
+      <navLabel>
+        <text>Chapter 2278 Daily Life</text>
+      </navLabel>
+      <content src="OEBPS/02320--2278-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72" class="chapter">
+      <navLabel>
+        <text>Chapter 2279 The Descent of the New Dragonborn</text>
+      </navLabel>
+      <content src="OEBPS/02321--2279-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73" class="chapter">
+      <navLabel>
+        <text>Chapter 2280 Wang Muyu's Battle</text>
+      </navLabel>
+      <content src="OEBPS/02322--2280-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74" class="chapter">
+      <navLabel>
+        <text>Chapter 2281 Whetstone</text>
+      </navLabel>
+      <content src="OEBPS/02323--2281-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75" class="chapter">
+      <navLabel>
+        <text>Chapter 2282 Wang Muyu Awakens</text>
+      </navLabel>
+      <content src="OEBPS/02324--2282-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76" class="chapter">
+      <navLabel>
+        <text>Chapter 2284 Wang Ming and Qin Zong's Investigation</text>
+      </navLabel>
+      <content src="OEBPS/02326--2284-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77" class="chapter">
+      <navLabel>
+        <text>Chapter 2285 A Counter-Strategy</text>
+      </navLabel>
+      <content src="OEBPS/02327--2285-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78" class="chapter">
+      <navLabel>
+        <text>Chapter 2286 Wang Muyu's Acting Skills Explode</text>
+      </navLabel>
+      <content src="OEBPS/02328--2286-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79" class="chapter">
+      <navLabel>
+        <text>Chapter 2287 Deep Within the Dragon's Nest</text>
+      </navLabel>
+      <content src="OEBPS/02329--2287-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80" class="chapter">
+      <navLabel>
+        <text>Chapter 2288 Resonance Deep Within the Altar</text>
+      </navLabel>
+      <content src="OEBPS/02330--2288-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81" class="chapter">
+      <navLabel>
+        <text>Chapter 2289 The Battle of Devouring the Abyss</text>
+      </navLabel>
+      <content src="OEBPS/02331--2289-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82" class="chapter">
+      <navLabel>
+        <text>Chapter 2290 The Four Extreme Dragon Lock Formation</text>
+      </navLabel>
+      <content src="OEBPS/02332--2290-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83" class="chapter">
+      <navLabel>
+        <text>Chapter 2291 Pursuit</text>
+      </navLabel>
+      <content src="OEBPS/02333--2291-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84" class="chapter">
+      <navLabel>
+        <text>Chapter 2292 Pre-made dishes in the cultivation world?</text>
+      </navLabel>
+      <content src="OEBPS/02334--2292-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85" class="chapter">
+      <navLabel>
+        <text>Chapter 2293 Rescue Plan</text>
+      </navLabel>
+      <content src="OEBPS/02335--2293-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86" class="chapter">
+      <navLabel>
+        <text>Chapter 2294 The Trap of Appetite</text>
+      </navLabel>
+      <content src="OEBPS/02336--2294-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87" class="chapter">
+      <navLabel>
+        <text>Chapter 2295 The Quietly Spreading Temptation</text>
+      </navLabel>
+      <content src="OEBPS/02337--2295-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88" class="chapter">
+      <navLabel>
+        <text>Chapter 2296 The Prisoner of Taste</text>
+      </navLabel>
+      <content src="OEBPS/02338--2296-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89" class="chapter">
+      <navLabel>
+        <text>Chapter 2297 The Rise of Taste Society</text>
+      </navLabel>
+      <content src="OEBPS/02339--2297-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90" class="chapter">
+      <navLabel>
+        <text>Chapter 2298 The Inner Demons in the Examination Hall</text>
+      </navLabel>
+      <content src="OEBPS/02340--2298-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91" class="chapter">
+      <navLabel>
+        <text>Chapter 2299 The Furnace of Emotions</text>
+      </navLabel>
+      <content src="OEBPS/02341--2299-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92" class="chapter">
+      <navLabel>
+        <text>Chapter 2300 Psionic Combat Assessment</text>
+      </navLabel>
+      <content src="OEBPS/02342--2300-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93" class="chapter">
+      <navLabel>
+        <text>Chapter 2301 A Simple and Unpretentious Business Battle</text>
+      </navLabel>
+      <content src="OEBPS/02343--2301-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94" class="chapter">
+      <navLabel>
+        <text>Chapter 2302 After the Big Exam</text>
+      </navLabel>
+      <content src="OEBPS/02344--2302-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95" class="chapter">
+      <navLabel>
+        <text>Chapter 2303 Death Dream</text>
+      </navLabel>
+      <content src="OEBPS/02345--2303-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96" class="chapter">
+      <navLabel>
+        <text>Chapter 2304 The Weight of Trust</text>
+      </navLabel>
+      <content src="OEBPS/02346--2304-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97" class="chapter">
+      <navLabel>
+        <text>Chapter 2305 Strange Questions and Answers: Is it Turtle Soup?</text>
+      </navLabel>
+      <content src="OEBPS/02347--2305-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98" class="chapter">
+      <navLabel>
+        <text>Chapter 2306 Rule Breaker</text>
+      </navLabel>
+      <content src="OEBPS/02348--2306-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99" class="chapter">
+      <navLabel>
+        <text>Chapter 2307 The Mirror Realm of Inner Demons</text>
+      </navLabel>
+      <content src="OEBPS/02349--2307-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100" class="chapter">
+      <navLabel>
+        <text>Chapter 2308 The Road to Redemption</text>
+      </navLabel>
+      <content src="OEBPS/02350--2308-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101" class="chapter">
+      <navLabel>
+        <text>Chapter 2309 Wang Muyu Returns</text>
+      </navLabel>
+      <content src="OEBPS/02351--2309-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102" class="chapter">
+      <navLabel>
+        <text>Chapter 2310 Silent Erosion</text>
+      </navLabel>
+      <content src="OEBPS/02352--2310-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103" class="chapter">
+      <navLabel>
+        <text>Chapter 2311 Wooden Fish's First High School Experience</text>
+      </navLabel>
+      <content src="OEBPS/02353--2311-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104" class="chapter">
+      <navLabel>
+        <text>Chapter 2312 Wooden Fish's Campus Radar</text>
+      </navLabel>
+      <content src="OEBPS/02354--2312-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105" class="chapter">
+      <navLabel>
+        <text>Chapter 2313 The Mantra for Clarifying the Spiritual Platform</text>
+      </navLabel>
+      <content src="OEBPS/02355--2313-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106" class="chapter">
+      <navLabel>
+        <text>Chapter 2314 Dirty Water</text>
+      </navLabel>
+      <content src="OEBPS/02356--2314-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-107" playOrder="107" class="chapter">
+      <navLabel>
+        <text>Chapter 2315 The Rules of Victory</text>
+      </navLabel>
+      <content src="OEBPS/02357--2315-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108" class="chapter">
+      <navLabel>
+        <text>Chapter 2316 The Spirit's Favoritism</text>
+      </navLabel>
+      <content src="OEBPS/02358--2316-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-109" playOrder="109" class="chapter">
+      <navLabel>
+        <text>Chapter 2317 Intelligent Game Theory</text>
+      </navLabel>
+      <content src="OEBPS/02359--2317-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110" class="chapter">
+      <navLabel>
+        <text>Chapter 2318 A Great Victory</text>
+      </navLabel>
+      <content src="OEBPS/02360--2318-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-111" playOrder="111" class="chapter">
+      <navLabel>
+        <text>Chapter 2319 The Home of the Shadow Stalkers</text>
+      </navLabel>
+      <content src="OEBPS/02361--2319-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112" class="chapter">
+      <navLabel>
+        <text>Chapter 2320 The Gate to the Abyss Opens!</text>
+      </navLabel>
+      <content src="OEBPS/02362--2320-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113" class="chapter">
+      <navLabel>
+        <text>Chapter 2321 The Death Rules of the Deep Mountain Pill Garden</text>
+      </navLabel>
+      <content src="OEBPS/02363--2321-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-114" playOrder="114" class="chapter">
+      <navLabel>
+        <text>Chapter 2322 Crack</text>
+      </navLabel>
+      <content src="OEBPS/02364--2322-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-115" playOrder="115" class="chapter">
+      <navLabel>
+        <text>Chapter 2323 Ghost Hand</text>
+      </navLabel>
+      <content src="OEBPS/02365--2323-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116" class="chapter">
+      <navLabel>
+        <text>Chapter 2324 The Principal's Etiquette</text>
+      </navLabel>
+      <content src="OEBPS/02366--2324-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117" class="chapter">
+      <navLabel>
+        <text>Chapter 2325 The Self-Cultivation of Elixir Materials</text>
+      </navLabel>
+      <content src="OEBPS/02367--2325-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118" class="chapter">
+      <navLabel>
+        <text>Chapter 2326 Showdown</text>
+      </navLabel>
+      <content src="OEBPS/02368--2326-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119" class="chapter">
+      <navLabel>
+        <text>Chapter 2327 Bloodstained Patterns Permeate Sixty Middle Schools</text>
+      </navLabel>
+      <content src="OEBPS/02369--2327-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-120" playOrder="120" class="chapter">
+      <navLabel>
+        <text>Chapter 2328 Sausage Girl</text>
+      </navLabel>
+      <content src="OEBPS/02370--2328-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-121" playOrder="121" class="chapter">
+      <navLabel>
+        <text>Chapter 2329 A Tragedy Triggered by a Grilled Sausage</text>
+      </navLabel>
+      <content src="OEBPS/02371--2329-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-122" playOrder="122" class="chapter">
+      <navLabel>
+        <text>Chapter 2330 Murderous Intent</text>
+      </navLabel>
+      <content src="OEBPS/02372--2330-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-123" playOrder="123" class="chapter">
+      <navLabel>
+        <text>Chapter 2331 Father's Love is as Solid as a Mountain</text>
+      </navLabel>
+      <content src="OEBPS/02373--2331-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124" class="chapter">
+      <navLabel>
+        <text>Chapter 2332 The Victory of the Laying-Down Winners!</text>
+      </navLabel>
+      <content src="OEBPS/02374--2332-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125" class="chapter">
+      <navLabel>
+        <text>Chapter 2333 Esports Arena Experience</text>
+      </navLabel>
+      <content src="OEBPS/02375--2333-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-126" playOrder="126" class="chapter">
+      <navLabel>
+        <text>Chapter 2334 Esports Father-Son Game</text>
+      </navLabel>
+      <content src="OEBPS/02376--2334-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-127" playOrder="127" class="chapter">
+      <navLabel>
+        <text>Chapter 2335 Summoning the Gods: The Arrival of Uz and Brother Li!</text>
+      </navLabel>
+      <content src="OEBPS/02377--2335-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-128" playOrder="128" class="chapter">
+      <navLabel>
+        <text>Chapter 2336 The Unbelievable Matching Mechanism</text>
+      </navLabel>
+      <content src="OEBPS/02378--2336-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-129" playOrder="129" class="chapter">
+      <navLabel>
+        <text>Chapter 2337 Training Match</text>
+      </navLabel>
+      <content src="OEBPS/02379--2337-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-130" playOrder="130" class="chapter">
+      <navLabel>
+        <text>Chapter 2338 Crimson Fire High School</text>
+      </navLabel>
+      <content src="OEBPS/02380--2338-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-131" playOrder="131" class="chapter">
+      <navLabel>
+        <text>Chapter 2339 Wang Ling Shows Off His Skills</text>
+      </navLabel>
+      <content src="OEBPS/02381--2339-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-132" playOrder="132" class="chapter">
+      <navLabel>
+        <text>Chapter 2340 Protect Hua Xiu!</text>
+      </navLabel>
+      <content src="OEBPS/02382--2340-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-133" playOrder="133" class="chapter">
+      <navLabel>
+        <text>Chapter 2341 Your Name</text>
+      </navLabel>
+      <content src="OEBPS/02383--2341-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-134" playOrder="134" class="chapter">
+      <navLabel>
+        <text>Chapter 2342 You can't suddenly fall in love with peace when you can't win.</text>
+      </navLabel>
+      <content src="OEBPS/02384--2342-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135" class="chapter">
+      <navLabel>
+        <text>Chapter 2343 Worshiping ghosts? Worshiping my ass!</text>
+      </navLabel>
+      <content src="OEBPS/02385--2343-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-136" playOrder="136" class="chapter">
+      <navLabel>
+        <text>Chapter 2344 The Shadow Warriors are completely wiped out</text>
+      </navLabel>
+      <content src="OEBPS/02386--2344-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-137" playOrder="137" class="chapter">
+      <navLabel>
+        <text>Chapter 2345 The Kidnapped "Qingqingzi"</text>
+      </navLabel>
+      <content src="OEBPS/02387--2345-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-138" playOrder="138" class="chapter">
+      <navLabel>
+        <text>Chapter 2346 About the incident where I kidnapped the wrong love rival and was forced to team up for esports</text>
+      </navLabel>
+      <content src="OEBPS/02388--2346-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-139" playOrder="139" class="chapter">
+      <navLabel>
+        <text>Chapter 2347 Draven's Trial</text>
+      </navLabel>
+      <content src="OEBPS/02389--2347-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-140" playOrder="140" class="chapter">
+      <navLabel>
+        <text>Chapter 2348 Liu Kaichuan's Nightmare</text>
+      </navLabel>
+      <content src="OEBPS/02390--2348-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-141" playOrder="141" class="chapter">
+      <navLabel>
+        <text>Chapter 2349 The Love Strategist Alliance is established!</text>
+      </navLabel>
+      <content src="OEBPS/02391--2349-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-142" playOrder="142" class="chapter">
+      <navLabel>
+        <text>Chapter 2350 The Love Strategist's Perfect Plan</text>
+      </navLabel>
+      <content src="OEBPS/02392--2350-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-143" playOrder="143" class="chapter">
+      <navLabel>
+        <text>Chapter 2351 Shura Field</text>
+      </navLabel>
+      <content src="OEBPS/02393--2351-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-144" playOrder="144" class="chapter">
+      <navLabel>
+        <text>Chapter 2352 Art is an explosion!</text>
+      </navLabel>
+      <content src="OEBPS/02394--2352-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-145" playOrder="145" class="chapter">
+      <navLabel>
+        <text>Chapter 2353 Team fight can be lost, but Teemo must die!</text>
+      </navLabel>
+      <content src="OEBPS/02395--2353-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-146" playOrder="146" class="chapter">
+      <navLabel>
+        <text>Chapter 2354 The Strategist Alliance's Interim Victory</text>
+      </navLabel>
+      <content src="OEBPS/02396--2354-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-147" playOrder="147" class="chapter">
+      <navLabel>
+        <text>Chapter 2355 The First Lesson of the Love Strategist Alliance (Part 1)</text>
+      </navLabel>
+      <content src="OEBPS/02397--2355-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-148" playOrder="148" class="chapter">
+      <navLabel>
+        <text>Chapter 2356 The First Lesson of the Love Strategist Alliance (Part 2)</text>
+      </navLabel>
+      <content src="OEBPS/02398--2356-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-149" playOrder="149" class="chapter">
+      <navLabel>
+        <text>Chapter 2357 Wang Ling and Sun Rong's Synchronization Rate</text>
+      </navLabel>
+      <content src="OEBPS/02399--2357-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-150" playOrder="150" class="chapter">
+      <navLabel>
+        <text>Chapter 2358 The Assistance from the Streamer Team</text>
+      </navLabel>
+      <content src="OEBPS/02400--2358-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-151" playOrder="151" class="chapter">
+      <navLabel>
+        <text>Chapter 2359 Confrontation Match</text>
+      </navLabel>
+      <content src="OEBPS/02401--2359-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-152" playOrder="152" class="chapter">
+      <navLabel>
+        <text>Chapter 2360 Parallel Space Version Answer</text>
+      </navLabel>
+      <content src="OEBPS/02402--2360-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-153" playOrder="153" class="chapter">
+      <navLabel>
+        <text>Chapter 2361 Driven by Jealousy</text>
+      </navLabel>
+      <content src="OEBPS/02403--2361-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-154" playOrder="154" class="chapter">
+      <navLabel>
+        <text>Chapter 2362 Who is in military training?</text>
+      </navLabel>
+      <content src="OEBPS/02404--2362-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-155" playOrder="155" class="chapter">
+      <navLabel>
+        <text>Chapter 2363 A Fake Becomes Real</text>
+      </navLabel>
+      <content src="OEBPS/02405--2363-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-156" playOrder="156" class="chapter">
+      <navLabel>
+        <text>Chapter 2364 Illusion Simulation Battle</text>
+      </navLabel>
+      <content src="OEBPS/02406--2364-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-157" playOrder="157" class="chapter">
+      <navLabel>
+        <text>Chapter 2365 Mid-lane Sniping Match</text>
+      </navLabel>
+      <content src="OEBPS/02407--2365-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-158" playOrder="158" class="chapter">
+      <navLabel>
+        <text>Chapter 2366 Luo Xinghe Turns Evil</text>
+      </navLabel>
+      <content src="OEBPS/02408--2366-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-159" playOrder="159" class="chapter">
+      <navLabel>
+        <text>Chapter 2367 Luo Xinghe's Scumbag-Style Deception</text>
+      </navLabel>
+      <content src="OEBPS/02409--2367-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-160" playOrder="160" class="chapter">
+      <navLabel>
+        <text>Chapter 2368 The Ghostly Hand of Drawing Lots</text>
+      </navLabel>
+      <content src="OEBPS/02410--2368-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-161" playOrder="161" class="chapter">
+      <navLabel>
+        <text>Chapter 2369 Xia Zhinuan's Awakening</text>
+      </navLabel>
+      <content src="OEBPS/02411--2369-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-162" playOrder="162" class="chapter">
+      <navLabel>
+        <text>Chapter 2370 Xia Zhinu becomes an undercover agent</text>
+      </navLabel>
+      <content src="OEBPS/02412--2370-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-163" playOrder="163" class="chapter">
+      <navLabel>
+        <text>Chapter 2371 The Strategist's Actions</text>
+      </navLabel>
+      <content src="OEBPS/02413--2371-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-164" playOrder="164" class="chapter">
+      <navLabel>
+        <text>Chapter 2372 The Spark That Ignites Public Opinion</text>
+      </navLabel>
+      <content src="OEBPS/02414--2372-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-165" playOrder="165" class="chapter">
+      <navLabel>
+        <text>Chapter 2373 The Second Interference</text>
+      </navLabel>
+      <content src="OEBPS/02415--2373-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-166" playOrder="166" class="chapter">
+      <navLabel>
+        <text>Chapter 2374 Hextech Mayhem!</text>
+      </navLabel>
+      <content src="OEBPS/02416--2374-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-167" playOrder="167" class="chapter">
+      <navLabel>
+        <text>Chapter 2375 It's all about being big</text>
+      </navLabel>
+      <content src="OEBPS/02417--2375-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-168" playOrder="168" class="chapter">
+      <navLabel>
+        <text>Chapter 2376 Luo Xinghe's Nightmare</text>
+      </navLabel>
+      <content src="OEBPS/02418--2376-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-169" playOrder="169" class="chapter">
+      <navLabel>
+        <text>Chapter 2377 Tap Dance</text>
+      </navLabel>
+      <content src="OEBPS/02419--2377-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-170" playOrder="170" class="chapter">
+      <navLabel>
+        <text>Chapter 2378 Ugly Face</text>
+      </navLabel>
+      <content src="OEBPS/02420--2378-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-171" playOrder="171" class="chapter">
+      <navLabel>
+        <text>Chapter 2379 Public Opinion Vortex</text>
+      </navLabel>
+      <content src="OEBPS/02421--2379-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-172" playOrder="172" class="chapter">
+      <navLabel>
+        <text>Chapter 2380 The Clown's Killing Time</text>
+      </navLabel>
+      <content src="OEBPS/02422--2380-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-173" playOrder="173" class="chapter">
+      <navLabel>
+        <text>Chapter 2381 The Art of Backstabbing</text>
+      </navLabel>
+      <content src="OEBPS/02423--2381-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-174" playOrder="174" class="chapter">
+      <navLabel>
+        <text>Chapter 2382 Complete Darkening</text>
+      </navLabel>
+      <content src="OEBPS/02424--2382-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-175" playOrder="175" class="chapter">
+      <navLabel>
+        <text>Chapter 2383 The Order to Assassinate the King?</text>
+      </navLabel>
+      <content src="OEBPS/02425--2383-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-176" playOrder="176" class="chapter">
+      <navLabel>
+        <text>Chapter 2384 Performance Art</text>
+      </navLabel>
+      <content src="OEBPS/02426--2384-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-177" playOrder="177" class="chapter">
+      <navLabel>
+        <text>Chapter 2385 The Advisors Alliance's Paradise Plan</text>
+      </navLabel>
+      <content src="OEBPS/02427--2385-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-178" playOrder="178" class="chapter">
+      <navLabel>
+        <text>Chapter 2386 The Seed of Evil Cultivation</text>
+      </navLabel>
+      <content src="OEBPS/02428--2386-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-179" playOrder="179" class="chapter">
+      <navLabel>
+        <text>Chapter 2387 Paradise Overture</text>
+      </navLabel>
+      <content src="OEBPS/02429--2387-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-180" playOrder="180" class="chapter">
+      <navLabel>
+        <text>Chapter 2388 The Labyrinth of Light and Shadow</text>
+      </navLabel>
+      <content src="OEBPS/02430--2388-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-181" playOrder="181" class="chapter">
+      <navLabel>
+        <text>Chapter 2389 The Promise on the Ferris Wheel</text>
+      </navLabel>
+      <content src="OEBPS/02431--2389-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-182" playOrder="182" class="chapter">
+      <navLabel>
+        <text>Chapter 2390 Night Visit to the Haunted House</text>
+      </navLabel>
+      <content src="OEBPS/02432--2390-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-183" playOrder="183" class="chapter">
+      <navLabel>
+        <text>Chapter 2391 An Uninvited Guest in the Paradise</text>
+      </navLabel>
+      <content src="OEBPS/02433--2391-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-184" playOrder="184" class="chapter">
+      <navLabel>
+        <text>Chapter 2392 The Theater of Flames</text>
+      </navLabel>
+      <content src="OEBPS/02434--2392-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-185" playOrder="185" class="chapter">
+      <navLabel>
+        <text>Chapter 2393 A Silent Resolution</text>
+      </navLabel>
+      <content src="OEBPS/02435--2393-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-186" playOrder="186" class="chapter">
+      <navLabel>
+        <text>Chapter 2394 Wang Ling's Identity?</text>
+      </navLabel>
+      <content src="OEBPS/02436--2394-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-187" playOrder="187" class="chapter">
+      <navLabel>
+        <text>Chapter 2395 Good Brother Chen Chao</text>
+      </navLabel>
+      <content src="OEBPS/02437--2395-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-188" playOrder="188" class="chapter">
+      <navLabel>
+        <text>Chapter 2396 Domain of Misfortune</text>
+      </navLabel>
+      <content src="OEBPS/02438--2396-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-189" playOrder="189" class="chapter">
+      <navLabel>
+        <text>Chapter 2397 Chen Chao, the Light Bulb</text>
+      </navLabel>
+      <content src="OEBPS/02439--2397-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-190" playOrder="190" class="chapter">
+      <navLabel>
+        <text>Chapter 2398 The Unlucky Killer and the Heart-Pounding Drop Tower</text>
+      </navLabel>
+      <content src="OEBPS/02440--2398-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-191" playOrder="191" class="chapter">
+      <navLabel>
+        <text>Chapter 2399 Tacit Understanding Challenge</text>
+      </navLabel>
+      <content src="OEBPS/02441--2399-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-192" playOrder="192" class="chapter">
+      <navLabel>
+        <text>Chapter 2400 The Promise in the Time Chamber</text>
+      </navLabel>
+      <content src="OEBPS/02442--2400-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-193" playOrder="193" class="chapter">
+      <navLabel>
+        <text>Chapter 2401 The Date is Underway</text>
+      </navLabel>
+      <content src="OEBPS/02443--2401-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-194" playOrder="194" class="chapter">
+      <navLabel>
+        <text>Chapter 2402 The Undercurrents Beneath the Smoke and Fire</text>
+      </navLabel>
+      <content src="OEBPS/02444--2402-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-195" playOrder="195" class="chapter">
+      <navLabel>
+        <text>Chapter 2403 Flirting and Bantering?</text>
+      </navLabel>
+      <content src="OEBPS/02445--2403-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-196" playOrder="196" class="chapter">
+      <navLabel>
+        <text>Chapter 2404 Appointment on the Ferris Wheel</text>
+      </navLabel>
+      <content src="OEBPS/02446--2404-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-197" playOrder="197" class="chapter">
+      <navLabel>
+        <text>Chapter 2405 Luo Xinghe's Further Actions</text>
+      </navLabel>
+      <content src="OEBPS/02447--2405-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-198" playOrder="198" class="chapter">
+      <navLabel>
+        <text>Chapter 2406 The Beginning of Sowing Discord</text>
+      </navLabel>
+      <content src="OEBPS/02448--2406-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-199" playOrder="199" class="chapter">
+      <navLabel>
+        <text>Chapter 2407 Brothers and Plans</text>
+      </navLabel>
+      <content src="OEBPS/02449--2407-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-200" playOrder="200" class="chapter">
+      <navLabel>
+        <text>Chapter 2408 Three Brothers</text>
+      </navLabel>
+      <content src="OEBPS/02450--2408-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-201" playOrder="201" class="chapter">
+      <navLabel>
+        <text>Chapter 2409 The Brothers' "Perfect Plan"</text>
+      </navLabel>
+      <content src="OEBPS/02451--2409-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-202" playOrder="202" class="chapter">
+      <navLabel>
+        <text>Chapter 2410 Wang Ling's Run-and-Run Style</text>
+      </navLabel>
+      <content src="OEBPS/02452--2410-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-203" playOrder="203" class="chapter">
+      <navLabel>
+        <text>Chapter 2411 Luo Xinghe's Test</text>
+      </navLabel>
+      <content src="OEBPS/02453--2411-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-204" playOrder="204" class="chapter">
+      <navLabel>
+        <text>Chapter 2412 Clash of Pure Martial Arts Cultivators</text>
+      </navLabel>
+      <content src="OEBPS/02454--2412-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-205" playOrder="205" class="chapter">
+      <navLabel>
+        <text>Chapter 2413 Brotherhood and Trust</text>
+      </navLabel>
+      <content src="OEBPS/02455--2413-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-206" playOrder="206" class="chapter">
+      <navLabel>
+        <text>Chapter 2414 Before the Quarterfinals</text>
+      </navLabel>
+      <content src="OEBPS/02456--2414-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-207" playOrder="207" class="chapter">
+      <navLabel>
+        <text>Chapter 2415 Useless Little Actions</text>
+      </navLabel>
+      <content src="OEBPS/02457--2415-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-208" playOrder="208" class="chapter">
+      <navLabel>
+        <text>Chapter 2416 Supporters</text>
+      </navLabel>
+      <content src="OEBPS/02458--2416-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-209" playOrder="209" class="chapter">
+      <navLabel>
+        <text>Chapter 2417 A Gathering of Big Shots</text>
+      </navLabel>
+      <content src="OEBPS/02459--2417-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-210" playOrder="210" class="chapter">
+      <navLabel>
+        <text>Chapter 2418 The Competition Begins</text>
+      </navLabel>
+      <content src="OEBPS/02460--2418-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-211" playOrder="211" class="chapter">
+      <navLabel>
+        <text>Chapter 2419 The Protective Thunder Lord</text>
+      </navLabel>
+      <content src="OEBPS/02461--2419-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-212" playOrder="212" class="chapter">
+      <navLabel>
+        <text>Chapter 2420 Some people are destined not to be kept.</text>
+      </navLabel>
+      <content src="OEBPS/02462--2420-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-213" playOrder="213" class="chapter">
+      <navLabel>
+        <text>Chapter 2421 The Blind Spot of Brotherhood</text>
+      </navLabel>
+      <content src="OEBPS/02463--2421-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-214" playOrder="214" class="chapter">
+      <navLabel>
+        <text>Chapter 2422 Eyes in the Dark</text>
+      </navLabel>
+      <content src="OEBPS/02464--2422-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-215" playOrder="215" class="chapter">
+      <navLabel>
+        <text>Chapter 2423 The Tipping Point</text>
+      </navLabel>
+      <content src="OEBPS/02465--2423-.html"/>
+    </navPoint>
+    <navPoint id="navPoint-216" playOrder="216" class="chapter">
+      <navLabel>
+        <text>Chapter 2424 Lin Jingzhe</text>
+      </navLabel>
+      <content src="OEBPS/02466--2424-.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
